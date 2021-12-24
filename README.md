@@ -13,7 +13,7 @@
 
   </div>
   
-  <img align="right" src="https://cdn.discordapp.com/attachments/509126290436259850/923794714598187058/giphy-4.gif" style="width: 400px"/>
+  <img align="right" src="https://cdn.discordapp.com/attachments/509126290436259850/923794714598187058/giphy-4.gif" style="width: 380px"/>
   
 </div>
 

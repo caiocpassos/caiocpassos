@@ -11,7 +11,7 @@
 
   💡 Minha linguagem de programação favorita é **C#**.
     
-   📌 Se possível, dê uma olhada em [meu currículo](teste) e em meu site(teste)
+   📌 Se possível, dê uma olhada em [meu currículo](https://caiocpassos.github.io/Curriculo-Pessoal/) e em [meu site](https://caiocpassos.github.io/Site-Pessoal/)
 
   </div>
   

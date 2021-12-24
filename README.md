@@ -1,14 +1,21 @@
 ## Olá, tudo bem? Meu nome é Caio Costa Passos
 
+<div style="display: inline-block">
+  <div>
 
-📚 Estudo na **Universidade Vila Velha (UVV)**.
+  📚 Estudo na **Universidade Vila Velha (UVV)**.
 
-💻 Meu curso é **Ciência da Computação**.
+  💻 Meu curso é **Ciência da Computação**.
 
-🤓 Adoro **ler** e **jogar**.
+  🤓 Adoro **ler** e **jogar**.
 
-💡Minha linguagem de programação favorita é **C#**.
+  💡Minha linguagem de programação favorita é **C#**.
 
+  </div>
+  
+  <img align="right" src="https://cdn.discordapp.com/attachments/509126290436259850/923794714598187058/giphy-4.gif" style="width: 400px"/>
+  
+</div>
 
 <div>
   <a href="https://github.com/caiocpassos">

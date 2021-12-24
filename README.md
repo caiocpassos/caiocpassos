@@ -1,5 +1,15 @@
 ## Olá, tudo bem? Meu nome é Caio Costa Passos
 
+
+📚 Estudo na **Universidade Vila Velha (UVV)**.
+
+💻 Meu curso é **Ciência da Computação**.
+
+🤓 Adoro **ler** e **jogar**.
+
+💡Minha linguagem de programação favorita é **C#**.
+
+
 <div>
   <a href="https://github.com/caiocpassos">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=caiocpassos&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>

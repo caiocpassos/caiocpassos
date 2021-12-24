@@ -9,7 +9,9 @@
 
   🤓 Adoro **ler** e **jogar**.
 
-  💡Minha linguagem de programação favorita é **C#**.
+  💡 Minha linguagem de programação favorita é **C#**.
+    
+   📌 Se possível, dê uma olhada em [meu currículo](teste) e em meu site(teste)
 
   </div>
   

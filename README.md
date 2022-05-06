@@ -9,7 +9,7 @@
 
   🤓 Adoro **ler** e **jogar**.
 
-  💡 Minha linguagem de programação favorita é **C#**.
+  💡 Minha linguagem de programação favorita é **Kotlin**.
     
    📌 Se possível, dê uma olhada em [meu currículo](https://caiocpassos.github.io/Curriculo-Pessoal/) e em [meu site](https://caiocpassos.github.io/Site-Pessoal/).
 

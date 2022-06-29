@@ -13,12 +13,6 @@
     
    📌 Se possível, dê uma olhada em [meu currículo](https://caiocpassos.github.io/Curriculo-Pessoal/) e em [meu site](https://caiocpassos.github.io/Site-Pessoal/).
 
-  </div>
-  
-  <img align="right" src="https://cdn.discordapp.com/attachments/509126290436259850/923794714598187058/giphy-4.gif" style="width: 350px"/>
-  
-</div>
-
 <div>
   <a href="https://github.com/caiocpassos">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=caiocpassos&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
